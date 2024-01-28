@@ -1,0 +1,223 @@
+{
+  "purple": {
+    "Naxxramas": {
+      "region": "purple",
+      "damage": 2,
+      "progression": [
+        "ATTACK",
+        "ATTACK",
+        "ATTACK",
+        "ATTACK",
+        "HEAL",
+        "HEAL",
+        "HEAL",
+        "TRAVEL",
+        "TRAVEL",
+        "DEFEND",
+        "DEFEND",
+        "DEFEND",
+        "ATTACK",
+        "ATTACK",
+        "ATTACK"
+      ]
+    },
+    "Utgarde Keep": {
+      "region": "purple",
+      "damage": 2,
+      "progression": [
+        "DEFEND",
+        "DEFEND",
+        "DEFEND",
+        "ATTACK",
+        "ATTACK",
+        "ATTACK",
+        "HEAL",
+        "HEAL",
+        "DEFEND",
+        "DEFEND",
+        "TRAVEL",
+        "TRAVEL",
+        "TRAVEL",
+        "ATTACK",
+        "ATTACK",
+        "ATTACK"
+      ]
+    },
+    "Wyrmrest Temple": {
+      "region": "purple",
+      "damage": 2,
+      "progression": [
+        "TRAVEL",
+        "TRAVEL",
+        "HEAL",
+        "HEAL",
+        "HEAL",
+        "HEAL",
+        "ATTACK",
+        "ATTACK",
+        "DEFEND",
+        "DEFEND",
+        "DEFEND",
+        "DEFEND",
+        "DEFEND",
+        "TRAVEL",
+        "TRAVEL",
+        "ATTACK",
+        "ATTACK"
+      ]
+    }
+  },
+  "red": {
+    "The Nexus": {
+      "region": "red",
+      "damage": 3,
+      "progression": [
+        "TRAVEL",
+        "TRAVEL",
+        "TRAVEL",
+        "ATTACK",
+        "ATTACK",
+        "HEAL",
+        "HEAL",
+        "HEAL",
+        "DEFEND",
+        "DEFEND",
+        "DEFEND",
+        "TRAVEL",
+        "TRAVEL",
+        "ATTACK",
+        "ATTACK"
+      ]
+    },
+    "Azjol-Nerub": {
+      "region": "red",
+      "damage": 3,
+      "progression": [
+        "DEFEND",
+        "DEFEND",
+        "DEFEND",
+        "ATTACK",
+        "ATTACK",
+        "HEAL",
+        "HEAL",
+        "HEAL",
+        "TRAVEL",
+        "TRAVEL",
+        "TRAVEL",
+        "ATTACK",
+        "ATTACK",
+        "ATTACK"
+      ]
+    },
+    "Vault of Archavon": {
+      "region": "red",
+      "damage": 3,
+      "progression": [
+        "TRAVEL",
+        "TRAVEL",
+        "TRAVEL",
+        "DEFEND",
+        "DEFEND",
+        "ATTACK",
+        "ATTACK",
+        "HEAL",
+        "HEAL",
+        "TRAVEL",
+        "TRAVEL",
+        "ATTACK",
+        "ATTACK"
+      ]
+    }
+  },
+  "green": {
+    "Ulduar": {
+      "region": "green",
+      "damage": 2,
+      "progression": [
+        "TRAVEL",
+        "TRAVEL",
+        "TRAVEL",
+        "TRAVEL",
+        "DEFEND",
+        "DEFEND",
+        "DEFEND",
+        "ATTACK",
+        "ATTACK",
+        "ATTACK",
+        "HEAL",
+        "HEAL",
+        "HEAL"
+      ]
+    },
+    "Argent Tournament": {
+      "region": "green",
+      "damage": 2,
+      "progression": [
+        "ATTACK",
+        "ATTACK",
+        "ATTACK",
+        "TRAVEL",
+        "TRAVEL",
+        "HEAL",
+        "HEAL",
+        "HEAL",
+        "ATTACK",
+        "ATTACK",
+        "DEFEND",
+        "DEFEND",
+        "ATTACK",
+        "ATTACK"
+      ]
+    },
+    "Gundrak": {
+      "region": "green",
+      "damage": 2,
+      "progression": [
+        "HEAL",
+        "HEAL",
+        "HEAL",
+        "DEFEND",
+        "DEFEND",
+        "ATTACK",
+        "ATTACK",
+        "TRAVEL",
+        "TRAVEL",
+        "DEFEND",
+        "DEFEND",
+        "ATTACK",
+        "ATTACK",
+        "ATTACK"
+      ]
+    }
+  },
+  "Icecrown Citadel": {
+    "Icecrown Citadel": {
+      "region": "Icecrown Citadel",
+      "damage": 2,
+      "progression": [
+        "ATTACK",
+        "ATTACK",
+        "ATTACK",
+        "TRAVEL",
+        "TRAVEL",
+        "HEAL",
+        "HEAL",
+        "HEAL",
+        "DEFEND",
+        "DEFEND",
+        "DEFEND",
+        "DEFEND",
+        "TRAVEL",
+        "TRAVEL",
+        "TRAVEL",
+        "HEAL",
+        "HEAL",
+        "HEAL",
+        "ATTACK",
+        "ATTACK",
+        "ATTACK",
+        "ATTACK"
+      ]
+    }
+  }
+}

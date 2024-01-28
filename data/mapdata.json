@@ -1,0 +1,278 @@
+{
+  "The Nexus": {
+    "region": "red",
+    "neighbors": [
+      "Warsong Hold"
+    ],
+    "spec": "0"
+  },
+  "Warsong Hold": {
+    "region": "red",
+    "neighbors": [
+      "The Nexus",
+      "River's Heart",
+      "Temple City of En'Kilah",
+      "Valiance Keep"
+    ],
+    "spec": "1"
+  },
+  "River's Heart": {
+    "region": "red",
+    "neighbors": [
+      "Onslaught Harbor",
+      "The Avalanche",
+      "Warsong Hold"
+    ],
+    "spec": "2"
+  },
+  "Onslaught Harbor": {
+    "region": "red",
+    "neighbors": [
+      "River's Heart",
+      "The Avalanche"
+    ],
+    "spec": "3"
+  },
+  "Vault of Archavon": {
+    "region": "red",
+    "neighbors": [
+      "River's Heart",
+      "Temple City of En'Kilah",
+      "Azjol-Nerub"
+    ],
+    "spec": "4"
+  },
+  "Azjol-Nerub": {
+    "region": "red",
+    "neighbors": [
+      "The Wrathgate",
+      "Vault of Archavon",
+      "Temple City of En'Kilah",
+      "Valiance Keep"
+    ],
+    "spec": "5"
+  },
+  "Valiance Keep": {
+    "region": "red",
+    "neighbors": [
+      "Azjol-Nerub",
+      "Temple City of En'Kilah",
+      "Warsong Hold"
+    ],
+    "spec": "6"
+  },
+  "The Avalanche": {
+    "region": "red",
+    "neighbors": [
+      "Onslaught Harbor",
+      "River's Heart"
+    ],
+    "spec": "7"
+  },
+  "The Wrathgate": {
+    "region": "red",
+    "neighbors": [
+      "Azjol-Nerub"
+    ],
+    "spec": "8"
+  },
+  "Temple City of En'Kilah": {
+    "region": "red",
+    "neighbors": [
+      "Azjol-Nerub",
+      "Vault of Archavon",
+      "Warsong Hold",
+      "Valiance Keep"
+    ],
+    "spec": "9"
+  },
+  "Shadow Vault": {
+    "region": "green",
+    "neighbors": [
+      "Onslaught Harbor",
+      "The Avalanche",
+      "Argent Tournament"
+    ],
+    "spec": "a"
+  },
+  "Argent Tournament": {
+    "region": "green",
+    "neighbors": [
+      "Shadow Vault",
+      "The Breach"
+    ],
+    "spec": "b"
+  },
+  "The Breach": {
+    "region": "green",
+    "neighbors": [
+      "Argent Tournament",
+      "Temple of Storms",
+      "Dalaran"
+    ],
+    "spec": "c"
+  },
+  "Dalaran": {
+    "region": "green",
+    "neighbors": [
+      "The Wrathgate",
+      "Frosthold",
+      "Wyrmrest Temple",
+      "Drak'Tilaron Keep",
+      "The Breach"
+    ],
+    "spec": "d"
+  },
+  "Frosthold": {
+    "region": "green",
+    "neighbors": [
+      "Temple of Storms",
+      "Dalaran",
+      "Thrym's End",
+      "Drak'Tilaron Keep"
+    ],
+    "spec": "e"
+  },
+  "Temple of Storms": {
+    "region": "green",
+    "neighbors": [
+      "Frosthold",
+      "The Breach",
+      "Terrace of the Makers",
+      "Ulduar"
+    ],
+    "spec": "f"
+  },
+  "Ulduar": {
+    "region": "green",
+    "neighbors": [
+      "Temple of Storms",
+      "Terrace of the Makers"
+    ],
+    "spec": "g"
+  },
+  "Terrace of the Makers": {
+    "region": "green",
+    "neighbors": [
+      "Ulduar",
+      "Temple of Storms",
+      "Thunderfall"
+    ],
+    "spec": "h"
+  },
+  "Gundrak": {
+    "region": "green",
+    "neighbors": [
+      "Thunderfall",
+      "Thrym's End",
+      "Kolramas"
+    ],
+    "spec": "i"
+  },
+  "Thunderfall": {
+    "region": "green",
+    "neighbors": [
+      "Terrace of the Makers",
+      "Thrym's End",
+      "Gundrak"
+    ],
+    "spec": "j"
+  },
+  "Wyrmrest Temple": {
+    "region": "purple",
+    "neighbors": [
+      "The Wrathgate",
+      "Naxxramas",
+      "Dalaran"
+    ],
+    "spec": "k"
+  },
+  "Naxxramas": {
+    "region": "purple",
+    "neighbors": [
+      "Wyrmrest Temple",
+      "Drak'Tilaron Keep",
+      "Amberpine Lodge"
+    ],
+    "spec": "l"
+  },
+  "Drak'Tilaron Keep": {
+    "region": "purple",
+    "neighbors": [
+      "Thrym's End",
+      "Naxxramas",
+      "Frosthold",
+      "Dalaran",
+      "Grizzlemaw"
+    ],
+    "spec": "m"
+  },
+  "Kolramas": {
+    "region": "purple",
+    "neighbors": [
+      "Gundrak",
+      "Grizzlemaw",
+      "Thrym's End"
+    ],
+    "spec": "q"
+  },
+  "Thrym's End": {
+    "region": "purple",
+    "neighbors": [
+      "Terrace of the Makers",
+      "Thunderfall",
+      "Frosthold",
+      "Gundrak",
+      "Kolramas",
+      "Drak'Tilaron Keep"
+    ],
+    "spec": "p"
+  },
+  "Amberpine Lodge": {
+    "region": "purple",
+    "neighbors": [
+      "Naxxramas",
+      "Grizzlemaw",
+      "Utgarde Keep"
+    ],
+    "spec": "r"
+  },
+  "Grizzlemaw": {
+    "region": "purple",
+    "neighbors": [
+      "Amberpine Lodge",
+      "Kolramas",
+      "Drak'Tilaron Keep",
+      "Utgarde Keep",
+      "Vengeance Landing"
+    ],
+    "spec": "s"
+  },
+  "Valgarde": {
+    "region": "purple",
+    "neighbors": [
+      "Vengeance Landing",
+      "Utgarde Keep"
+    ],
+    "spec": "t"
+  },
+  "Vengeance Landing": {
+    "region": "purple",
+    "neighbors": [
+      "Grizzlemaw",
+      "Utgarde Keep",
+      "Valgarde"
+    ],
+    "spec": "u"
+  },
+  "Utgarde Keep": {
+    "region": "purple",
+    "neighbors": [
+      "Valgarde",
+      "Grizzlemaw",
+      "Amberpine Lodge",
+      "Vengeance Landing"
+    ],
+    "spec": "z"
+  }
+}

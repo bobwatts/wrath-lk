@@ -1,0 +1,87 @@
+{
+  "Muradin Bronzebeard": {
+    "health": 8,
+    "starting space": "Frosthold",
+    "action": [
+      "Storm Bolt",
+      true
+    ],
+    "abilities": [
+      "Legacy Of The Bronzebeards"
+    ],
+    "symbol": "M"
+  },
+  "Tirion Fordring": {
+    "health": 8,
+    "starting space": "The Breach",
+    "action": [
+      "Press Forward!",
+      false
+    ],
+    "abilities": [
+      "Ashbringer"
+    ],
+    "symbol": "F"
+  },
+  "Jaina Proudmoore": {
+    "health": 6,
+    "starting space": "Valiance Keep",
+    "action": [
+      "Teleport",
+      false
+    ],
+    "abilities": [
+      "Frost Armor"
+    ],
+    "symbol": "J"
+  },
+  "Varian Wrynn": {
+    "health": 7,
+    "starting space": "Valgarde",
+    "action": [
+      "For The Alliance!",
+      true
+    ],
+    "abilities": [
+      "Whirlwind"
+    ],
+    "symbol": "V"
+  },
+  "Thrall": {
+    "health": 7,
+    "starting space": "Warsong Hold",
+    "action": [
+      "Chain Lightning",
+      false
+    ],
+    "abilities": [
+      "I Am The Warchief"
+    ],
+    "symbol": "T"
+  },
+  "Lady Liadrin": {
+    "health": 7,
+    "starting space": "Dalaran",
+    "action": [
+      "None",
+      true
+    ],
+    "abilities": [
+      "Indomitable",
+      "Lay On Hands"
+    ],
+    "symbol": "L"
+  },
+  "Sylvanas Windrunner": {
+    "health": 6,
+    "starting space": "Vengeance Landing",
+    "action": [
+      "Wailing Arrow",
+      false
+    ],
+    "abilities": [
+      "Will Of The Forsaken"
+    ],
+    "symbol": "S"
+  }
+}

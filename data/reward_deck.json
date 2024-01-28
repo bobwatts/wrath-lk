@@ -1,0 +1,13 @@
+{
+  "Reward Cards": {
+    "Borrowed Time": "Action Step: The current player does +3 actions this turn.",
+    "New Allies": "Current player takes up to 2 cards from the hero discard into their hand.",
+    "One Quiet Night": "Any Time: Skip \"Spawn Ghouls\" and \"Activate Abominations\" this turn.",
+    "Gunship Support": "Any Time: Move any hero to any space, then they may fight.",
+    "Argent Crusaders": "Any Time: Choose any hero. Deal 5 damage divided among their space and connected spaces",
+    "Knights of the Ebon Blade": "Any Time: Deal 3 damage divided among up to 3 spaces in a single region.",
+    "Alexstraza's Cleansing": "Any Time: Return a discarded Scourge card to the box. Remove all ghouls from that space.",
+    "Blessing of the Light": "Any Time: Either each hero heals 2 or 1 hero heals to full.",
+    "Onward to Victory": "Any Time: Heroes collectively move up to 5 spaces total."
+  }
+}
